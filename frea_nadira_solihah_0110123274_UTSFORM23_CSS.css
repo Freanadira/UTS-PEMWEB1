@@ -1,0 +1,52 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #94ad93;
+}
+
+
+h1{
+    text-align: center;
+    font-weight: 200;
+}
+
+table{
+    margin: auto;
+    width: fit-content;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: #ECE3CE;
+    border-radius: 3px;
+}
+
+input, select{
+    border-color: black;
+    border-radius: 3px;
+    height: 30px;
+    width: 200px;
+}
+
+td{
+    padding: 5px;
+}
+
+label{
+    display: block;
+    font-size: 16px;
+}
+
+button{
+    padding: 7px 11px;
+    border: 1;
+    border-radius: 4px;
+    border-color: black;
+} 
+
+#daftar{
+    display: block;
+    float: right;
+}
+
+.buatakun{
+    color: blue;
+    float: right;
+}
